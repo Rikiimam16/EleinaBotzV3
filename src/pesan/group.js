@@ -17,13 +17,13 @@ for (let num of participants) {
 try {
 ppuser = await alfia.profilePictureUrl(num, 'image')
 } catch {
-ppuser = 'https://telegra.ph/file/c2372ca2ab144d113b94e.jpg'
+ppuser = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 }
 // Get Profile Picture Group
 try {
 ppgroup = await alfia.profilePictureUrl(anu.id, 'image')
 } catch {
-ppgroup = 'https://telegra.ph/file/c2372ca2ab144d113b94e.jpg'
+ppgroup = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 }
                 
 let buttons = [
