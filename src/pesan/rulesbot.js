@@ -12,7 +12,7 @@ return `
 *Rules BOT*
 
   ❏ Dilarang spam bot wajib jeda 5detik
-  ❏ Dilarang keras copy paste teks sc bot WhatsApp ini!
+  ❏ Gunakan Bot dengan baik dan berguna!
   ❏ Dilarang memasukan group ke group lain!
   ❏ Dilarang telpon bot!
 `
